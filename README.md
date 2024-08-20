@@ -74,8 +74,16 @@ It will:<br>
 5.application(data): Navigates to the internship fair page and applies to available internships.<br>
 6.apply(url, data): Fills in the application form for each internship.<br>
 
+## Screenshots - 
+# Login Page- 
 
 
 
+<img width="1440" alt="Screenshot 2024-08-21 at 1 20 08 AM" src="https://github.com/user-attachments/assets/d382bcfb-6e45-4346-b46b-df23fce35297">
+
+<br>
+# Apply Button - 
+<img width="1440" alt="Screenshot 2024-08-21 at 1 22 21 AM" src="https://github.com/user-attachments/assets/2b8d0754-75f5-443f-945f-b253061cfafc">
+<br>
 
 
